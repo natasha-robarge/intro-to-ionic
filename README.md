@@ -5,7 +5,7 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) projects
 Sweetly Fit is an ionic practice app where you can share sweet recipes, workouts, and more with
 your fellow fit pals. You can even find new inspiration by following people's Pinterest.
 
-**NOTE: This will not be added to a project idea list yet. This is simply for practice with Ionic and Cordova**
+**NOTE: This will not be added to a project idea list yet. This is simply for practice with Ionic, Cordova, and Firebase**
 
 ## Updates to Sweetly Fit
 
