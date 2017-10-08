@@ -1,26 +1,17 @@
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
-## How to use this template
+# Welcome to Sweetly Fit!
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+Sweetly Fit is an ionic practice app where you can share sweet recipes, workouts, and more with
+your fellow fit pals. You can even find new inspiration by following people's Pinterest.
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+**NOTE: This will not be added to a project idea list yet. This is simply for practice with Ionic and Cordova**
 
-### With the Ionic CLI:
+## Updates to Sweetly Fit
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+It's being made right now!! Haha, so no professional fake updates yet. Look forward to it soon though.
 
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myTutorial tutorial
-```
+## Ionic / Firebase Apps
 
-Then, to run it, cd into `myTutorial` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
-
-Substitute ios for android if not on a Mac.
-
+Go get Ionic and look through their documentation. Also, check out Firebase. It seems cool.
+I just don't know if it's used in the industry and I don't know React Native... yet ;D
